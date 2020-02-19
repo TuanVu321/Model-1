@@ -1,18 +1,25 @@
+let object_test = {
+    '+': function (x, y) {
+        return x + y
+    },
+    '-': function (x, y) {
+        return x - y
+    },
+    '*': function (x, y) {
+        return x * y
+    },
+    '/': function (x, y) {
+        return x / y
+    }
+}
 
 
+function caculator(x) {
 
-
-
-
-
-function caculator1() {
-    let d = document.getElementById('so1').value;
-    let e = document.getElementById('so2').value;
-    let a = parseInt(d);
-    let b = parseInt(e);
-    let c = null;
-    c = a + b
-    display(c);
+    let test1 = parseInt(document.getElementById("so1").value);
+    let test2 = parseInt(document.getElementById("so2").value);
+    let final = object_test[x](test1, test2);
+    display(final)
 }
 
 function display(value) {
