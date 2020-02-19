@@ -1,0 +1,13 @@
+table{
+    border-collapse: collapse;
+    border: black 2px solid;
+    text-align: center;
+    width: 100%;
+}
+th,td{
+    border-collapse: collapse;
+    border: black 2px solid;
+}
+.red{
+    background-color: red;
+}

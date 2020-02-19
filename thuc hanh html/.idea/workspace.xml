@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c89d4729-e876-4aaa-8f83-1a157da070ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test 123/form so thich.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test 123/form tim kiem goolge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test 123/style dang ky hoc vien.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test 123/style so thich.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test 123/thuc hanh tao bang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/New Microsoft Word Document.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinh noi dung cv.css" beforeDir="false" afterPath="$PROJECT_DIR$/chinh noi dung cv.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Xn77PwDKarWORLqJJxx8rBXlZr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c89d4729-e876-4aaa-8f83-1a157da070ad" name="Default Changelist" comment="" />
+      <created>1581669836308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581669836308</updated>
+      <workItem from="1581669837652" duration="3338000" />
+      <workItem from="1581688234378" duration="3741000" />
+      <workItem from="1581902868746" duration="16018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="284" width="515" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581903836444">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state x="425" y="284" width="515" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.675@0.27.1366.675" timestamp="1581903836444" />
+  </component>
+</project>

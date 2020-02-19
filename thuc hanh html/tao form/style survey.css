@@ -1,0 +1,23 @@
+select{
+    width: 500px;
+}
+.tien1{
+    width: 100px;
+}
+.tien2{
+    width: 20px;
+}
+#table0{
+    border-collapse: collapse;
+    border: black 2px solid;
+    text-align: center;
+    width: 100%;
+
+}
+#table0 th{
+    border: black 2px solid;
+
+}
+#table0 tr:nth-child(odd){
+    background-color: #dddddd;
+}

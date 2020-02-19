@@ -1,0 +1,23 @@
+.vang{
+    background-color: yellow;
+}
+.cam{
+    background-color: orange;
+}
+
+.bang1{
+    border-collapse: collapse;
+    border: 2px black solid;
+}
+.bang1 td,.bang1 th{
+    border-collapse: collapse;
+    border: 2px black solid;
+}
+.bang2 td,.bang2 th{
+    border-collapse: collapse;
+    border: 2px black solid;
+}
+.bang2{
+    border-collapse: collapse;
+    border: black 2px solid;
+}

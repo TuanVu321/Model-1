@@ -1,0 +1,20 @@
+
+h2 {
+    color: white; text-align: center; align-content: center;
+}
+
+
+.tieu-de{
+    background-color: red; border: white; width: 500px;
+
+}
+.all-body{border:black solid 2px;
+    width: 500px;
+    margin: 0 auto;}
+.tit-input{width: 100px}
+td{text-align: left;}
+tr:nth-child(3) td{
+    width:120px;
+}
+.form-input{width: 100px
+}

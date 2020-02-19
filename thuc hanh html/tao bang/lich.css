@@ -1,0 +1,30 @@
+.do{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+.vang{
+    background-color: yellow;
+    text-align: center;
+    color: white;
+}
+.xanh{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+.bang1{
+    background-color: white;
+    width:50%;
+    height:70%;
+    border-collapse: collapse;
+
+}
+.bang2 {
+    background-color: white;
+    width:50%;height:70%;
+    }
+.bang2 th{
+    border:2px solid black;
+    border-collapse: collapse;
+}

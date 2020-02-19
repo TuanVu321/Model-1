@@ -1,0 +1,28 @@
+
+
+
+
+body{font-family: "Times New Roman"
+font-site: 14mp}
+
+#main{
+    width: 1000px;
+    padding:0;
+    margin-left: 50px
+    margin-right: 30px}
+
+#top{
+    height: 150px;
+    Background-color: aqua;
+    border-style: none;
+    float:}
+
+#mid{
+    height: 1000px;
+    Background-color: aliceblue;
+    border-style: none;}
+
+#bottom{
+    height: 100px;
+    Background-color: black;
+    border-style: none;}

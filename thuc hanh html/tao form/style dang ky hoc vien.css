@@ -1,0 +1,11 @@
+
+.all-body{
+    border: red solid 2px;
+    background-color: bisque;
+    width: 500px;
+    margin: 0 auto;
+}
+h2{
+    background-color: blue;
+    text-align: center;
+}
