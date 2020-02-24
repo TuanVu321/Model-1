@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>chuyen doi tien</title>
+
+</head>
+<body>
+<table>
+    <tr>
+        <th>Amount</th>
+        <th>From Currency</th>
+        <th>Currency</th>
+    </tr>
+    <tr>
+        <td><input type="number" id="tien"></td>
+        <td><select id="select1">
+            <option value="VN">Viet Nam</option>
+            <option value="USD">USD</option>
+        </select></td>
+        <td><select id="select2">
+            <option value="VN">VietNam</option>
+            <option value="USD">USD</option>
+        </select></td>
+        <td>
+            <button type="button" onclick="moneychange()">Convert</button>
+        </td>
+    </tr>
+</table>
+<p id="result"></p>
+
+
+<script src="js/chuyen-doi-tien.js"></script>
+</body>
+</html>
